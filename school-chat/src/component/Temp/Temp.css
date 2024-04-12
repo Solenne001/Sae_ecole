@@ -1,0 +1,10 @@
+.TempBule{
+    border: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(0, 0, 255, 0.794);
+    width: 150%;
+    margin: 100px;
+    border-radius: 10px;
+}

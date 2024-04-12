@@ -1,0 +1,35 @@
+.notePorte{
+    display: flex;
+    flex-direction: row;
+    font-family: 'eurostile';
+    font-size: 20px;
+    font-weight: 200;
+    width: 300%;
+    color: #000;
+}
+
+.variableLine{
+    display: flex;
+    justify-content: space-between;
+    color: #000;
+}
+
+.variableLine p{
+    margin: 20px;
+    color: #000;
+}
+
+
+hr{
+    width: 100%;
+    background: #000;
+    height: 3px;
+}
+
+
+.trait{
+    width: 100%;
+    height: 5px;
+    background: azure;
+    border: none;
+}

@@ -1,0 +1,31 @@
+.formes{
+    height: 450px;
+    width: 30%;
+    background-color: blue;
+    color: black;
+    margin-left: 40%;
+    margin-top: 100px;
+}
+h1{
+    margin-left: 90px;
+  }
+.btn_cnt{
+    height: 20px;
+    width: 40%;
+    font-size: 15px;
+    border-radius: 15px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.btn_cnt:hover{
+    width: 50%;
+    background-color: blue;
+    cursor: pointer;
+}
+input:hover{
+    background-color: transparent;
+    color: aliceblue;
+}
+input{
+    margin-top: 30px;
+}

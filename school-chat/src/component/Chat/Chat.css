@@ -1,0 +1,19 @@
+
+
+.mettre{
+    color: black;
+    font-size: 20px;
+    outline: none;
+/*     margin-top: 400px;
+ */    /* margin-left: 50%; */
+}
+.chatte{
+    background-color: blue;
+    color: white;
+    height: 30px;
+    width: 100px;
+    border: 0px;
+    margin-left: 300px;
+    margin-top: -500px;
+}
+

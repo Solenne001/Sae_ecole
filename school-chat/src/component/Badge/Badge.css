@@ -1,0 +1,27 @@
+.ligne{
+    background-color: rgba(0, 0, 255, 0.794);
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    margin: 15px;
+    justify-content: space-between;
+    align-items: center;
+    width: 150%;
+    margin-left: 50%;
+}
+
+.badge{
+    background-color: green;
+    width: 25px;
+    height: 25px;
+    border: none;
+    border-radius: 10px;
+}
+
+.solde p{
+    color: azure;
+    font-family: eurostile;
+    font-weight: 200;
+    font-size: 30px;
+
+}

@@ -1,0 +1,27 @@
+.lignes{
+    background-color: rgba(0, 0, 255, 0.794);
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    margin: 15px;
+    justify-content: space-between;
+    align-items: center;
+    width: 150%;
+    margin-left: 50%;
+}
+
+.badges{
+    background-color: red;
+    width: 25px;
+    height: 25px;
+    border: none;
+    border-radius: 10px;
+}
+
+.soldes p{
+    color: azure;
+    font-family: eurostile;
+    font-weight: 200;
+    font-size: 30px;
+
+}
